@@ -13,6 +13,8 @@ node_modules/
 .tmp/
 intern/
 
+diff*.txt
+
 # OS or Editor folders
 .DS_Store
 Thumbs.db
